@@ -1,0 +1,14 @@
+{
+  "name": "tindog",
+  "version": "1.0.0",
+  "description": "TinDog \u2014 a dating app for dogs. A static landing page built with Bootstrap 5.",
+  "private": true,
+  "scripts": {
+    "start": "live-server --port=5500"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  },
+  "keywords": ["bootstrap", "html", "css", "landing-page", "static-site"],
+  "license": "MIT"
+}
